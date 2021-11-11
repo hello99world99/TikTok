@@ -200,7 +200,7 @@ class PostContent extends StatelessWidget {
                     crossAxisAlignment: CrossAxisAlignment.start,
                     children: [
                       const Text(
-                        '@extremesports_95',
+                        '@HomeWorkOut_99',
                         style: TextStyle(
                           color: Colors.white,
                           fontWeight: FontWeight.w600,
